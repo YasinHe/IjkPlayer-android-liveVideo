@@ -3,5 +3,5 @@
 
 ## 使用的开源技术
 - ijkplayer
-# OnlineMakeup# IjkPlayer-
-# IjkPlayer-
+# OnlineMakeup
+
